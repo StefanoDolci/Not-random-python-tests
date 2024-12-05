@@ -206,3 +206,15 @@ latex.out/
 
 # Latexian
 TSWLatexianTemp*
+
+
+# Ignore LaTeX-generated files and folders
+*.aux
+*.log
+*.synctex.gz
+*.toc
+*.fdb_latexmk
+*.fls
+
+# Ignore the LaTeX output folder
+latex_output/

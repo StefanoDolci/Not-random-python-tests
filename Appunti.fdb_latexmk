@@ -1,9 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1733339056.54213 "c:/Users/stefa/Documents/python_test/Appunti.tex" "Appunti.pdf" "Appunti" 1733339056.77829 0
-  "Appunti.aux" 1733339056 228 301a20304f5c698433d96161b56efe81 "pdflatex"
-  "Appunti.tex" 1733339056 829 1cd00a7915813b60839e3e4b01ce98bc ""
-  "Appunti.toc" 1733339056 114 27d8c12b3b104c128e180b71d6aeeb9f "pdflatex"
-  "c:/Users/stefa/Documents/python_test/Appunti.tex" 1733339056 829 1cd00a7915813b60839e3e4b01ce98bc ""
+["pdflatex"] 1733429479.93049 "c:/Users/stefa/Documents/python_test/Appunti.tex" "Appunti.pdf" "Appunti" 1733429480.08912 0
+  "Appunti.aux" 1733429480 325 0a180b65fe5bc49b89a9d49a0fd095df "pdflatex"
+  "Appunti.tex" 1733429479 490 1ca0ff212f6b421fd7ac45ce8ffe7e0b ""
+  "Appunti.toc" 1733429480 170 c3f4c0c30a2eac17c5d6fb274c0f247d "pdflatex"
+  "c:/Users/stefa/Documents/python_test/Appunti.tex" 1733429479 490 1ca0ff212f6b421fd7ac45ce8ffe7e0b ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1733326873 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1733326873 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm" 1733326873 1328 5442e22a7072966dbaf88ca900acf3f0 ""
@@ -21,7 +21,6 @@
   "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1733326856 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1733326856 32080 340ef9bf63678554ee606688e7b5339d ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb" 1733326856 32298 c6d25bb16d1eac01ebdc6d7084126a1e ""
-  "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1733326856 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1733326856 35752 024fb6c41858982481f6968b5fc26508 ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1733326856 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1733326856 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
