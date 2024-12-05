@@ -206,3 +206,16 @@ latex.out/
 
 # Latexian
 TSWLatexianTemp*
+<<<<<<< HEAD
+=======
+
+
+
+# Latex stuff
+
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+>>>>>>> master
